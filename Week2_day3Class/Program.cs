@@ -28,24 +28,30 @@ namespace Week2_day3Class
             //favoriteFood("JD", "Pizza");
             //favoriteFood("Monica", "shrimp");
 
-            RetirementCalculator(64);
+        //    RetirementCalculator(64);
+        //}
+
+
+        //public static void RetirementCalculator(int age)
+        //{
+        //    int retirementAge = Math.Max(0, 65 - age);
+
+        //    Console.WriteLine("The user will retire in " + retirementAge + " years");
+        //}
+
+        //public static void favoriteFood(string name, string food)
+        //{
+        //    Console.WriteLine("********************************");
+        //    Console.WriteLine(name + "'s favorite food is " + food);
+        //    Console.WriteLine();
+
         }
 
+             
+        public static void 
 
-        public static void RetirementCalculator(int age)
-        {
-            int retirementAge = Math.Max(0, 65 - age);
 
-            Console.WriteLine("The user will retire in " + retirementAge + " years");
-        }
 
-        public static void favoriteFood(string name, string food)
-        {
-            Console.WriteLine("********************************");
-            Console.WriteLine(name + "'s favorite food is " + food);
-            Console.WriteLine();
-
-        }
 
         // DO NOT REPEAT YOURSELF.
 
